@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+@import "bulma/css/bulma.css";
+
+html {
+  height: 100%;
+  background-image: linear-gradient(to left bottom, #0022ff, #0020e6, #001ecd, #001bb5, #00189d, #2d0c82, #360368, #360051, #350036, #2b0220, #1d0110, #000000);
+}
+
